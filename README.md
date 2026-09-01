@@ -59,4 +59,3 @@ My best work tends to sit between product thinking and deep implementation: find
 - [playrunner.dev](https://playrunner.dev)
 - [conceptai.dev](https://conceptai.dev)
 - Discord: **kaleidoscope888**
-- [anthony@conceptai.dev](mailto:anthony@conceptai.dev)
